@@ -1,0 +1,6 @@
+{
+  "name": "SonicWave",
+  "description": "A sleek, Android-inspired music player with local storage and playlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
